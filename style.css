@@ -81,6 +81,9 @@ nav a{
 
 nav a:hover{
     color:var(--verde-principal);
+    background:rgba(50,215,75,.12);
+    border-radius:6px;
+    padding:4px 8px;
 }
 
 main section:first-child{
